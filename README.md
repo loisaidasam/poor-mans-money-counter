@@ -1,9 +1,7 @@
 poor-mans-money-counter
 =======================
 
-Ever wonder where you're money's going?
-
-I wrote this app in Slovenia to keep track.
+Ever wonder where you're money's going? I wrote this app in Slovenia to help me keep track.
 
 It works like this:
 
