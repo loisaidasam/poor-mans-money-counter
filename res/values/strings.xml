@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poor Man\'s Money Counter</string>
+    <string name="title">Poor Man\'s\nMoney Counter</string>
+    <string name="menu_prefs">Add Money</string>
+</resources>
